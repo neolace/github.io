@@ -36,7 +36,7 @@
     "schema-dts": "^1.0.0",
     "styled-components": "^5.3.3",
     "swiper": "7.0.7",
-    "tinacms": "^0.59.1",
+    "tinacms": "^0.70.2",
     "url-loader": "^4.1.1",
     "use-clipboard-copy": "^0.2.0",
     "use-resize-observer": "^8.0.0"
